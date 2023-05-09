@@ -99,9 +99,9 @@
     </a>
 </p>
     
- <p align="center" display="flex">
-   <a href="https://github.com/mr-rivi/github-readme-stats"><img alt="mr-rivi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-rivi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="200px" /></a>
-  <a href="https://github.com/mr-rivi/github-readme-stats"><img alt="mr-rivi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rivi&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="200px"/></a>
+ <p align="center">
+   <a href="https://github.com/mr-rivi/github-readme-stats"><img alt="mr-rivi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-rivi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/mr-rivi/github-readme-stats"><img alt="mr-rivi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rivi&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true""/></a>
 </p>
 
 
