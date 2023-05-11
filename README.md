@@ -16,9 +16,7 @@
 
 - 🔭 I’m currently working on [user-auth-system](https://github.com/Mr-RiVi/user-authentication-system)
 
-- 🌱 I’m currently learning **JavaScript.**
-
-- 🧐 Excited to Learn Next **TypeScript.**
+- 🌱 I’m currently learning **to write clean code.**
 
 - 👯 I’m looking to collaborate on **back-end development.**
 
@@ -29,8 +27,6 @@
 - 📫 How to reach me **fernandorivindu2@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tAY1CR5z0304Enq-53YU-0LhorreNDY-/view?usp=share_link](https://drive.google.com/file/d/1tAY1CR5z0304Enq-53YU-0LhorreNDY-/view?usp=share_link">[Resume]</a>
-
-- ⚡ Fun fact **Always feels like I am a beginner. 🤔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
