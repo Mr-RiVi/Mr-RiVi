@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rivindu Fernando</h1>
-<h3 align="center">A passionate backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate software engineer from Sri Lanka</h3>
 <h4 align="center">Undergraduate</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mr-rivi&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rivi" />
